@@ -80,12 +80,6 @@ MOV R1,#02H
 DJNZ R1,LOOP1
 END
 
-
-
-
-
-
-
 ```
 ## OUTPUT(Descending order)
 
