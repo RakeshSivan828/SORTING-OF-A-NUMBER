@@ -43,6 +43,8 @@ END
 ```
 ## OUTPUT(Ascending order)
 
+<img width="731" height="474" alt="image" src="https://github.com/user-attachments/assets/67b65673-2510-4d05-8744-7748b7974f07" />
+
 
 
 ---
@@ -82,6 +84,9 @@ END
 
 ```
 ## OUTPUT(Descending order)
+
+<img width="805" height="443" alt="image" src="https://github.com/user-attachments/assets/31a73b22-fbab-41bd-afc0-14c859f9d2c4" />
+
 
 
 
